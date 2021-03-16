@@ -4,7 +4,7 @@
 LPIC Level1/CCNA  
   
 - 🔭 I’m currently working on ...  
-TypeScript/Next.js/Google Cloud Platform/PostgreSQL  
+TypeScript/Next.js/TailwindCSS/Google Cloud Platform/PostgreSQL  
     
 ## Languages
 HTML/Sass(.scss)/JavaScript(CoffeeScript)/Ruby/PHP/VBA/SQL/ShellScript  
