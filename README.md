@@ -7,7 +7,7 @@ LPIC Level1/CCNA
 TypeScript/Next.js/TailwindCSS/Google Cloud Platform/PostgreSQL  
     
 ## Languages
-Sass(.scss)/JavaScript(CoffeeScript)/Ruby/PHP/VBA/SQL/ShellScript  
+HTML(.erb, .slim, .blade, .php)Sass(.scss)/JavaScript(CoffeeScript)/Ruby/PHP/VBA/SQL/ShellScript  
   
 ## Frameworks
 Ruby on Rails/Laravel/Next.js  
