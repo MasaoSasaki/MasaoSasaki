@@ -1,7 +1,7 @@
 # Hi there 👋
   
 - 🔭 I’m currently working on ...  
-TypeScript/Next.js/TailwindCSS/Mock Service Worker/Google Cloud Platform/PostgreSQL  
+TypeScript/Next.js/TailwindCSS/PostgreSQL/Docker  
     
 ## Languages
 HTML(.erb, .slim, .blade, .php)/Sass(.scss)/JavaScript(CoffeeScript)/Ruby/PHP/VBA/SQL/ShellScript  
@@ -10,12 +10,16 @@ HTML(.erb, .slim, .blade, .php)/Sass(.scss)/JavaScript(CoffeeScript)/Ruby/PHP/VB
 Ruby on Rails/Laravel/Next.js  
   
 ## Libraries
-jQuery/Bootstrap/FontAwesome/React  
+jQuery/Bootstrap/FontAwesome/React/Mock Service Worker/JSON server  
   
 ## Infrastructures
 Linux/Nginx/MySQL/VirtualBox/Vagrant  
 AWS(EC2/RDS/S3/Certificate Manager/Route 53/WorkMail)  
 Vercel  
+  
+## Licenses
+CCNA/LPIC1  
+  
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MasaoSasaki&count_private=true&show_icons=true&theme=tokyonight" />
