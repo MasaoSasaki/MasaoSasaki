@@ -18,7 +18,7 @@ AWS(EC2/RDS/S3/Certificate Manager/Route 53/WorkMail)
 Vercel  
   
 ## Licenses
-CCNA/LPIC1  
+CCNA/LPIC1/AWS CLF, SAA  
   
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
