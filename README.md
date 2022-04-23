@@ -1,7 +1,7 @@
 # Hi there 👋
   
 - 🔭 I’m currently working on ...  
-TypeScript/Next.js/TailwindCSS/PostgreSQL/Docker  
+Laravel/React/TailwindCSS/PostgreSQL/Docker  
     
 ## Languages
 HTML(.erb, .slim, .blade, .php)/Sass(.scss)/JavaScript(CoffeeScript)/Ruby/PHP/VBA/SQL/ShellScript  
