@@ -1,21 +1,19 @@
 # Hi there 👋
   
 - 🔭 I’m currently working on ...  
-Laravel/React/TailwindCSS/PostgreSQL/Docker  
+Flutter/Laravel  
     
 ## Languages
-HTML(.erb, .slim, .blade, .php)/Sass(.scss)/JavaScript(CoffeeScript)/Ruby/PHP/VBA/SQL/ShellScript  
+Ruby/PHP/VBA/SQL/ShellScript  
   
 ## Frameworks
-Ruby on Rails/Laravel/Next.js  
-  
-## Libraries
-jQuery/Bootstrap/FontAwesome/React/Mock Service Worker/JSON server  
+RoR/Laravel/Next.js  
   
 ## Infrastructures
 Linux/Nginx/MySQL/VirtualBox/Vagrant  
 AWS(EC2/RDS/S3/Certificate Manager/Route 53/WorkMail)  
 Vercel  
+FireBase  
   
 ## Licenses
 CCNA/LPIC1/AWS CLF, SAA  
