@@ -1,23 +1,28 @@
 # Hi there 👋
   
 - 🔭 I’m currently working on ...  
-Flutter/Laravel  
+Flutter / Laravel  
     
 ## Languages
-Ruby/PHP/VBA/SQL/ShellScript  
+Dart / PHP / SQL / ShellScript / VBA / Ruby  
   
 ## Frameworks
-RoR/Laravel/Next.js  
+Flutter / Laravel / RoR / Next.js  
   
 ## Infrastructures
-Linux/Nginx/MySQL/VirtualBox/Vagrant  
-AWS(EC2/RDS/S3/Certificate Manager/Route 53/WorkMail)  
+Linux / Nginx / MySQL / VirtualBox / Vagrant  
+AWS(EC2 / RDS / S3 / Certificate Manager / Route 53 / WorkMail)  
 Vercel  
 FireBase  
   
 ## Licenses
-CCNA/LPIC1/AWS CLF, SAA  
+CCNA / LPIC1 / AWS CLF, SAA  
   
+## Tools
+### Development
+VScode / AndroidStudio / Xcode / Postman / MySQLworkbench / Sourcetree  
+### Communication
+Slack / BackLog / GoogleMeet / Gather / Tandem / esa  
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MasaoSasaki&count_private=true&show_icons=true&theme=tokyonight" />
