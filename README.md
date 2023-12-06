@@ -20,9 +20,9 @@ CCNA / LPIC1 / AWS CLF, SAA
   
 ## Tools
 ### Development
-VScode / AndroidStudio / Xcode / Postman / MySQLworkbench / Sourcetree  
+IntelliJ IDEA / VScode / AndroidStudio / Xcode / Postman / MySQLworkbench / Sourcetree  
 ### Communication
-Slack / BackLog / GoogleMeet / Gather / Tandem / esa  
+GitHub Projects / Slack / BackLog / GoogleMeet / Gather / Tandem / esa  
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MasaoSasaki&count_private=true&show_icons=true&theme=tokyonight" />
