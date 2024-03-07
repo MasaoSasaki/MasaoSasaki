@@ -20,7 +20,7 @@ CCNA / LPIC1 / AWS CLF, SAA
   
 ## Tools
 ### Development
-IntelliJ IDEA / VScode / AndroidStudio / Xcode / Postman / MySQLworkbench / Sourcetree  
+IntelliJ IDEA / VScode / AndroidStudio / Cursor / Xcode / Postman / MySQLworkbench / Sourcetree  
 ### Communication
 GitHub Projects / Slack / BackLog / GoogleMeet / Gather / Tandem / esa  
   
