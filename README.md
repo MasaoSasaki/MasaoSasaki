@@ -6,8 +6,8 @@ Flutter / Laravel
 ## Languages
 Dart / PHP / SQL / ShellScript / VBA / Ruby  
   
-## Frameworks
-Flutter / Laravel / RoR / Next.js  
+## Frameworks and Libraries
+Flutter / Laravel / Vue / RoR / Next.js  
   
 ## Infrastructures
 Linux / Nginx / MySQL / VirtualBox / Vagrant  
