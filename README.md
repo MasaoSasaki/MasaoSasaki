@@ -1,28 +1,71 @@
 # Hi there 👋
   
 - 🔭 I’m currently working on ...  
-Flutter / Laravel  
+Flutter, Laravel, Firebase  
     
 ## Languages
-Dart / PHP / SQL / ShellScript / VBA / Ruby  
+
+- Dart, GAS, PHP, SQL, ShellScript, VBA, Ruby  
   
 ## Frameworks and Libraries
-Flutter / Laravel / Vue / RoR / Next.js  
+
+- Flutter, Laravel, Vue, RoR, Next.js  
   
 ## Infrastructures
-Linux / Nginx / MySQL / VirtualBox / Vagrant  
-AWS(EC2 / RDS / S3 / Certificate Manager / Route 53 / WorkMail)  
-Vercel  
-FireBase  
+
+### Cloud
+
+- FireBase (Storage, RemoteConfig, Crashlytics, Messaging)  
+- GCP (Text-to-Speech)  
+- AWS(EC2, RDS, S3, Certificate Manager, Route 53, WorkMail)
+
+### Provisioning
+
+- Vercel  
+
+### OS
+
+- MacOS, Linux, Windows
+
+### Development
+
+- Docker, Nginx, VirtualBox, Vagrant
+
+### Database
+
+- MySQL, PostgresSQL
   
 ## Licenses
-CCNA / LPIC1 / AWS CLF, SAA  
+
+- AWS (CLF, SAA)  
   
 ## Tools
-### Development
-IntelliJ IDEA / VScode / AndroidStudio / Cursor / Xcode / Postman / MySQLworkbench / Sourcetree  
+
+### Editor
+  
+- IntelliJ IDEA, Cursor, AndroidStudio, VSCode, Xcode
+
+### Browsing
+
+- Arc
+
 ### Communication
-GitHub Projects / Slack / BackLog / GoogleMeet / Gather / Tandem / esa  
+
+- Gather, Meta, Tandem, Microsft Teams  
+
+### Project Management
+
+- GitHub Projects, BackLog, Redmine
+- Google Workspace (Google Meet, Google Chat)  
+
+### Other
+
+- Postman, MySQLworkbench, Sourcetree, DiagramsIO, iTerm2
+
+## Generative AI
+
+- GitHub Copilot, ChatGPT (GPT-4), suno
+  
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MasaoSasaki&count_private=true&show_icons=true&theme=tokyonight" />
