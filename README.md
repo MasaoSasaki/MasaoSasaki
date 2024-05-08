@@ -5,19 +5,19 @@ Flutter, Laravel, Firebase
     
 ## Languages
 
-- Dart, GAS, PHP, SQL, ShellScript, VBA, Ruby  
+- Dart / GAS / PHP / SQL / ShellScript / VBA / Ruby  
   
 ## Frameworks and Libraries
 
-- Flutter, Laravel, Vue, RoR, Next.js  
+- Flutter / Laravel / Vue / RoR / Next.js  
   
 ## Infrastructures
 
 ### Cloud
 
-- FireBase (Storage, RemoteConfig, Crashlytics, Messaging)  
+- FireBase (Storage / RemoteConfig / Crashlytics / Messaging)  
 - GCP (Text-to-Speech)  
-- AWS(EC2, RDS, S3, Certificate Manager, Route 53, WorkMail)
+- AWS(EC2 / RDS / S3 / Certificate Manager / Route 53 / WorkMail)
 
 ### Provisioning
 
@@ -25,25 +25,25 @@ Flutter, Laravel, Firebase
 
 ### OS
 
-- MacOS, Linux, Windows
+- MacOS / Linux / Windows
 
 ### Development
 
-- Docker, Nginx, VirtualBox, Vagrant
+- Docker / Nginx / VirtualBox / Vagrant
 
 ### Database
 
-- MySQL, PostgresSQL
+- MySQL / PostgresSQL
   
 ## Licenses
 
-- AWS (CLF, SAA)  
+- AWS (CLF / SAA)  
   
 ## Tools
 
 ### Editor
   
-- IntelliJ IDEA, Cursor, AndroidStudio, VSCode, Xcode
+- IntelliJ IDEA / Cursor / AndroidStudio / VSCode / Xcode
 
 ### Browsing
 
@@ -51,20 +51,20 @@ Flutter, Laravel, Firebase
 
 ### Communication
 
-- Gather, Meta, Tandem, Microsft Teams  
+- Gather / Meta / Tandem / Microsft Teams  
 
 ### Project Management
 
-- GitHub Projects, BackLog, Redmine
-- Google Workspace (Google Meet, Google Chat)  
+- GitHub Projects / BackLog / Redmine
+- Google Workspace (Google Meet / Google Chat)  
 
 ### Other
 
-- Postman, MySQLworkbench, Sourcetree, DiagramsIO, iTerm2
+- Postman / MySQLworkbench / Sourcetree / DiagramsIO / iTerm2
 
 ## Generative AI
 
-- GitHub Copilot, ChatGPT (GPT-4), suno
+- GitHub Copilot / ChatGPT (GPT-4) / suno
   
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
