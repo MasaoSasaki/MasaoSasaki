@@ -15,12 +15,9 @@ Flutter, Laravel, Firebase
 
 ### Cloud
 
-- FireBase (Storage / RemoteConfig / Crashlytics / Messaging)  
+- FireBase (Storage / RemoteConfig / Crashlytics / Messaging / Analytics)  
 - GCP (Text-to-Speech)  
 - AWS(EC2 / RDS / S3 / Certificate Manager / Route 53 / WorkMail)
-
-### Provisioning
-
 - Vercel  
 
 ### OS
@@ -35,15 +32,15 @@ Flutter, Laravel, Firebase
 
 - MySQL / PostgresSQL
   
-## Licenses
-
-- AWS (CLF / SAA)  
-  
 ## Tools
 
 ### Editor
   
 - IntelliJ IDEA / Cursor / AndroidStudio / VSCode / Xcode
+
+### Terminal
+
+- WindTerm / iTerm2 / TeraTerm
 
 ### Browsing
 
@@ -60,7 +57,7 @@ Flutter, Laravel, Firebase
 
 ### Other
 
-- Postman / MySQLworkbench / Sourcetree / DiagramsIO / iTerm2
+- Postman / MySQLworkbench / Sourcetree / DiagramsIO
 
 ## Generative AI
 
